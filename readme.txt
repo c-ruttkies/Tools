@@ -1,3 +1,5 @@
+MetFrag Commandline Tool
+
 = Requirements =
 
 * Java 1.6
